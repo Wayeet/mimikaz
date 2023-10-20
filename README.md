@@ -36,9 +36,9 @@ SID               : S-1-5-21-1982681256-1210654043-1600862990-1000
          * Password : waza1234/
 ...
 ```
-But that's not all! `Crypto`, `Terminal Server`, `Events`, ... lots of informations in the GitHub Wiki https://github.com/gentilkiwi/mimikatz/wiki or on https://blog.gentilkiwi.com (in French, _yes_).
+In addition to the aforementioned features, the Crypto, Terminal Server, Events, and many more details can be found on our GitHub Wiki at GitHub Wiki for Mimikatz. Further insights, in French, are available on our official blog.
 
-If you don't want to build it, binaries are availables on https://github.com/gentilkiwi/mimikatz/releases
+For those not inclined to compile from source, precompiled binaries are readily available at Mimikatz Releases.
 
 
 ## Quick usage
